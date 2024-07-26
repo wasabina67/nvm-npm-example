@@ -10,9 +10,9 @@ npm i
 ## Run
 
 ```bash
-node ex.js
+node src/ex.js
 ```
 
 ```bash
-node run.js
+node src/run.js
 ```
